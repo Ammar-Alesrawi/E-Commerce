@@ -35,13 +35,13 @@
     cursor: pointer;
 }
 
+/* red line */
 .nav-menu hr{
     border: none;
     width: 80%;
     height: 3px;
     border-radius: 10px;
-    background: #ff4141;
-
+    background: #ff4141
 }
 
 .nav-login-cart{
